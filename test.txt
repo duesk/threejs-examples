@@ -1,0 +1,29 @@
+npm install --save three
+
+
+
+libreria para cortar gemetrias 
+https://github.com/evanw/csg.js
+
+
+
+ToolbarConstructor-TooltipCut para cortar usando un plano
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
